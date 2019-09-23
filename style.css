@@ -1,0 +1,127 @@
+h1 {
+	font-family: Helvetica;
+}
+h2 {
+	font-family: Helvetica;
+	font-size: 16px;
+	font-weight: 550;
+}
+#left{
+	text-align: left;
+}
+h3 {
+	font-family: Helvetica;
+	font-size: 14px;
+	font-weight: 10;
+}
+h4 {
+	font-family: Helvetica;
+	font-size: 1px;
+	font-weight: 1;
+	color: white;
+}
+	#title {
+		width: 90%;
+		background-color: white;
+		float:left;
+		margin-left: 20px;
+		margin-bottom: 20px;
+	}
+	#menu {display: inline;
+		float:right;
+		margin-top: 20px;
+		margin-right: 20px;
+	}
+
+	#blank {
+		font-size: 16px;
+	}
+
+	#pagetitle {
+	font-size: 32px;
+	}
+
+	#pagesubtitle {
+	font-size: 16px;
+	font-style: 20px;
+	}
+
+	#assignment1{
+		width: 70%;
+		float:left;
+		border-right: 2px solid black;
+		border-left: 2px solid black; 
+		border-top: 2px solid black;
+		border-bottom: 2px solid black;
+		margin-bottom: 10px;
+		padding: 20px;
+		text-align: right;
+	}
+	#assignment2{
+		width: 70%;
+		float:left;
+		border-right: 2px solid black;
+		border-left: 2px solid black; 
+		border-top: 2px solid black;
+		border-bottom: 2px solid black;
+		margin-bottom: 10px;
+		padding: 20px;
+		text-align: left;
+	}
+	#assignment3{
+		width: 70%;
+		float:left;
+		border-right: 2px solid black;
+		border-left: 2px solid black; 
+		border-top: 2px solid black;
+		border-bottom: 2px solid black;
+		margin-bottom: 10px;
+		padding: 20px;
+		text-align: right;
+	}
+
+	#bio{display: inline; 
+		width: 20%;
+		float:right;
+		margin-right: 20px;
+		border-right: 2px solid black;
+		border-left: 2px solid black; 
+		border-top: 2px solid black;
+		border-bottom: 2px solid black;
+		padding: 20px;
+	}
+	#contacts{display: inline; 
+		width: 20%;
+		float:right;
+		margin-right: 20px;
+		border-right: 2px solid black;
+		border-left: 2px solid black; 
+		border-top: 2px solid black;
+		border-bottom: 2px solid black;
+		padding: 20px;
+	}
+	#text1{
+		width: 65%;
+		float: right;
+		margin-right: 20px;
+	}
+	#text2{
+		width: 65%;
+		float: left;
+		margin-left: 20px; 
+	}
+	#photo1{display: inline;
+		float:left;
+		width: 25%;
+	}
+	#photo2{ display: inline;
+		float:right;
+		width: 25%;
+	}
+	#photo3{ display: inline;
+		float:left;
+		width: 25%;
+	}
+	
+
+
